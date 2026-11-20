@@ -1,1 +1,1 @@
-# atividade-03-landing-page
+atividade-03-blog-tecnico
