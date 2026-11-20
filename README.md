@@ -1,1 +1,0 @@
-atividade-03-blog-tecnico
